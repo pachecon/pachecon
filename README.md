@@ -12,4 +12,8 @@
 - 📫 How to reach me: 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/arlettepachecon.svg?style=social&label=Follow%20arlettepachecon)](https://twitter.com/arlettepachecon)
 - ⚡ Fun fact: 
+- I'm interesting in:
 
+<p align="center">
+   <img src="arlette.gif" width="400" height="100"/>
+</p>
