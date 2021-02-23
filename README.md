@@ -15,5 +15,5 @@
 - I'm interesting in:
 
 <p align="center">
-   <img src="Interests.png" width="350" height="300"/>
+   <img src="Interests.png" width="400" height="310"/>
 </p>
