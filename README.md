@@ -1,4 +1,4 @@
-### Hello everyone 👋  :simple_smile:
+### Hello everyone 👋 
 
 <!--
 **pachecon/pachecon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
